@@ -1,0 +1,40 @@
+span {
+  color: red;
+}
+
+a.Google {
+  color: darkblue;
+}
+a.Google:hover {
+  color: greenyellow;
+  text-transform: uppercase;
+}
+
+a#Yt {
+  color: red;
+}
+a#Yt:hover {
+  color: black;
+  text-transform: uppercase;
+}
+a.Spotify {
+  color: blueviolet;
+}
+a.Spotify:hover {
+  color: aquamarine;
+  text-transform: uppercase;
+}
+a#Netflix {
+  color: ;
+}
+a#Netflix:hover {
+  color: brown;
+  text-transform: uppercase;
+}
+a.Twitter {
+  color: blue;
+}
+a.Twitter:hover {
+  color: burlywood;
+  text-transform: uppercase;
+}
