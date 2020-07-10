@@ -1,3 +1,36 @@
-body{
-  width: auto;
+body {
+  background-color: orange;
+}
+.firstcircle {
+  width: 300px;
+  height: 300px;
+  background-color: white;
+  border-radius: 100%;
+  text-align: center;
+}
+.secondarycircle {
+  width: 600px;
+  height: 600px;
+  background-color: white;
+  border-radius: 100%;
+  text-align: center;
+}
+.secondarycircle {
+  position: relative;
+  left: 20%;
+}
+#circle2 {
+  position: relative;
+  left: 60%;
+}
+#quote,
+#alert {
+  position: relative;
+  top: 300px;
+}
+h1,
+h2,
+#author {
+  position: relative;
+  top: 130px;
 }
